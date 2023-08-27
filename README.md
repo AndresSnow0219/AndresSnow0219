@@ -4,8 +4,8 @@
 <table>
   <tr>
   <td><img src="https://github.com/AndresSnow0219/portfolio/blob/portfolio/public/portfolio.jpg" alt="portfolio" width="500" /></td>
-  <td><img src="https://github.com/AndresSnow0219/checkout-single-subscription/blob/master/checkout-demo.gif" width="100%"/></td>
-  <td><img src="https://raw.githubusercontent.com/blitz-js/art/master/github-cover-photo.png" width="100%" /></td>
+  <td><img src="https://github.com/AndresSnow0219/checkout-single-subscription/blob/master/checkout-demo.gif" width="500"/></td>
+  <td><img src="https://raw.githubusercontent.com/blitz-js/art/master/github-cover-photo.png" width="500" /></td>
   </tr>
   <tr>
   <td><img src="https://github.com/AndresSnow0219/flight-tracker/blob/master/props/images/wireframe_early_stage.png" /></td>
