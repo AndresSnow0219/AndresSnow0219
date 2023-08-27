@@ -3,7 +3,7 @@
   <br>
   Bear Stone Smart Home Documentation
 </h1>
-<div style={{display: flex;flex-direction: coloumn;}}>
+<div style={{display: flex;flex-direction: column;}}>
   <div>
   <img src="https://github.com/AndresSnow0219/portfolio/blob/portfolio/public/portfolio.jpg" alt="portfolio" /></td>
   <img src="https://github.com/AndresSnow0219/checkout-single-subscription/blob/master/checkout-demo.gif" /></td>
