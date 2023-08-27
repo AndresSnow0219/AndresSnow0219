@@ -1,6 +1,12 @@
 <h1 align="center" name="top">
   <img src="https://github.com/AndresSnow0219/AndresSnow0219/blob/master/img/logo.png">
 </h1>
+
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Andres. Andres Felipe Lopez Carbonell</h1>
+<h3 align="center">I am a proficient full-stack developer.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndresSnow0219&label=Profile%20views&color=0e75b6&style=flat" alt="AndresSnow0219" /> </p>
+
 <table>
   <tr>
   <td width="33.333%"><img src="https://github.com/AndresSnow0219/portfolio/blob/portfolio/public/portfolio.jpg" alt="portfolio" /></td>
@@ -18,12 +24,6 @@
   <td><img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" /></td>
   </tr>
 </table> 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Andres. Andres Felipe Lopez Carbonell</h1>
-<h3 align="center">I am a proficient full-stack developer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndresSnow0219&label=Profile%20views&color=0e75b6&style=flat" alt="AndresSnow0219" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndresSnow0219&theme=" alt="AndresSnow0219" /></a> </p>
 
 <div> <a href="https://github.com/AndresSnow0219" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
