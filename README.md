@@ -1,5 +1,5 @@
 <h1 align="center" name="top">
-  <img src="https://github.com/AndresSnow0219/AndresSnow0219/blob/master/img/logo.png" alt="Bear Stone Smart Home" width="200">
+  <img src="https://github.com/AndresSnow0219/AndresSnow0219/blob/master/img/logo.png">
 </h1>
 <table>
   <tr>
@@ -23,7 +23,7 @@
 **Still have questions on my Config?** <br>
 
 <p align="center">
-<a name="bottom" href="https://github.com/CCOSTAN/Home-AssistantConfig#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a><br>
+<a name="bottom" href="#top"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a><br>
 <a href="#top"><img align="center" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/email_link.png" height="50" ></a><br>
 <a href="mailto:andresfelipe.lopez0219@gmail.com">
 </a>
