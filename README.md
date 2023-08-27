@@ -13,7 +13,7 @@
   <td><img src="https://github.com/AndresSnow0219/solidity-modal/blob/master/.github/assets/header.png" /></td>
   </tr>
   <tr>
-  <td><img src="https://img.shields.io/github/stars/clintonwoo/hackernews-react-graphql.svg?style=social&label=Star" /></td>
+  <td><img src="https://github.com/AndresSnow0219/hackernews-react-graphql/blob/master/docs/HN-Demo.gif" /></td>
   <td><img src="http://i.imgur.com/67oYe9q.png)](https://www.howtographql.com" /></td>
   <td><img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" /></td>
   </tr>
