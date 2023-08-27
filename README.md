@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 
 <h1 align="center">
-  <img src="https://github.com/AndresSnow0219/AndresSnow0219/blob/master/img/logo.png" alt="Bear Stone Smart Home" width="200">
+  <img src="https://github.com/AndresSnow0219/AndresSnow0219/blob/master/img/logo.png" alt="Bear Stone Smart Home" >
   <br>
   Bear Stone Smart Home Documentation
 </h1>
