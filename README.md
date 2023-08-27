@@ -5,8 +5,8 @@
 </h1>
 <div>
   <div style="display: flex;">
-  <img src="https://github.com/AndresSnow0219/portfolio/blob/portfolio/public/portfolio.jpg" alt="portfolio" /></td>
-  <img src="https://github.com/AndresSnow0219/checkout-single-subscription/blob/master/checkout-demo.gif" /></td>
+  <img src="https://github.com/AndresSnow0219/portfolio/blob/portfolio/public/portfolio.jpg" alt="portfolio" />
+  <img src="https://github.com/AndresSnow0219/checkout-single-subscription/blob/master/checkout-demo.gif" />
   </div>
   <div style={{display: flex;}}>
   <img src="https://github.com/AndresSnow0219/flight-tracker/blob/master/props/images/wireframe_early_stage.png" />
