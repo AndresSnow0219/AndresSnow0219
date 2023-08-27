@@ -29,13 +29,8 @@
 </a>
 </p>
 =======
-# Hello, I'm Andres Lopez! 👋
+<h1># Hello, I'm Andres Lopez! 👋 </h1>
 
-I'm a software developer passionate about open-source projects and technology. Here you'll find some of my recent work and projects.
-
-
-## 📫 Contact
-
-- [Email](andresfelipe.lopez0219@gmail.com)
+<h2>I'm a software developer passionate about open-source projects and technology. Here you'll find some of my recent work and projects.</h2>
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project!
