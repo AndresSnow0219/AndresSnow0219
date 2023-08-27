@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
   <a name="logo" href="https://www.vCloudInfo.com/tag/iot"><img src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/twitter_profile.png" alt="Bear Stone Smart Home" width="200"></a>
   <br>
@@ -973,3 +974,20 @@ Feel free to join the conversations there.
 <a href="https://www.vCloudInfo.com/p/affiliate-disclosure.html">
 Affiliate Disclosure
 </a></p>
+=======
+# Hello, I'm John Smith! 👋
+
+I'm a software developer passionate about open-source projects and technology. Here you'll find some of my recent work and projects.
+
+## 🚀 Projects
+
+- [Project 1](link-to-project-1): A brief description of Project 1.
+- [Project 2](link-to-project-2): A brief description of Project 2.
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/johnsmith/)
+- [Twitter](https://twitter.com/johnsmith)
+
+Feel free to reach out to me if you have any questions or want to collaborate on a project!
+>>>>>>> 9a9c46016becd2b5f04798ca85fdc7038ce72464
