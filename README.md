@@ -3,21 +3,18 @@
   <br>
   Bear Stone Smart Home Documentation
 </h1>
-<table>
-  <th>Contributions</th>
-  <tr>
-  <td><img src="https://github.com/AndresSnow0219/portfolio/blob/portfolio/public/portfolio.jpg" alt="portfolio" /></td>
-  <td><img src="https://github.com/AndresSnow0219/checkout-single-subscription/blob/master/checkout-demo.gif" /></td>
-  </tr>
-  
-  <tr>
-  <td><img src="https://github.com/AndresSnow0219/flight-tracker/blob/master/props/images/wireframe_early_stage.png" /></td>
-  <td><img src="https://advancedreact.com/images/ARG/arg-facebook-share.png" /></td>
-  <td><img src="https://github.com/AndresSnow0219/solidity-modal/blob/master/.github/assets/header.png" /></td>
-  </tr>
-      
-</table>
-**All files are now being edited with [VSCode](https://code.visualstudio.com/).**
+<div style={{display: flex;flex-direction: coloumn;}}>
+  <div>
+  <img src="https://github.com/AndresSnow0219/portfolio/blob/portfolio/public/portfolio.jpg" alt="portfolio" /></td>
+  <img src="https://github.com/AndresSnow0219/checkout-single-subscription/blob/master/checkout-demo.gif" /></td>
+  </div>
+  <div>
+  <img src="https://github.com/AndresSnow0219/flight-tracker/blob/master/props/images/wireframe_early_stage.png" />
+  <img src="https://advancedreact.com/images/ARG/arg-facebook-share.png" />
+  <img src="https://github.com/AndresSnow0219/solidity-modal/blob/master/.github/assets/header.png" />
+  </div>
+</div> 
+**files are now being edited with [VSCode](https://code.visualstudio.com/).**
 
 **Still have questions on my Config?** <br>
 
