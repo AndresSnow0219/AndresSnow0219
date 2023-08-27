@@ -3,12 +3,12 @@
   <br>
   Bear Stone Smart Home Documentation
 </h1>
-<div style={{display: flex;flex-direction: column;}}>
-  <div>
+<div>
+  <div style={{display: flex;}}>
   <img src="https://github.com/AndresSnow0219/portfolio/blob/portfolio/public/portfolio.jpg" alt="portfolio" /></td>
   <img src="https://github.com/AndresSnow0219/checkout-single-subscription/blob/master/checkout-demo.gif" /></td>
   </div>
-  <div>
+  <div style={{display: flex;}}>
   <img src="https://github.com/AndresSnow0219/flight-tracker/blob/master/props/images/wireframe_early_stage.png" />
   <img src="https://advancedreact.com/images/ARG/arg-facebook-share.png" />
   <img src="https://github.com/AndresSnow0219/solidity-modal/blob/master/.github/assets/header.png" />
