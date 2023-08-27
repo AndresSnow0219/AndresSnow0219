@@ -3,22 +3,32 @@
   <br>
   Bear Stone Smart Home Documentation
 </h1>
-
+<table>
+  <th>Contributions</th>
+  <tr>
+  <td><img src="https://github.com/AndresSnow0219/portfolio/blob/portfolio/public/portfolio.jpg" alt="portfolio" /></td>
+  <td><img src="[https://github.com/AndresSnow0219/portfolio/blob/portfolio/public/portfolio.jpg](https://github.com/AndresSnow0219/checkout-single-subscription/blob/master/checkout-demo.gif)" alt="portfolio" /></td>
+  </tr>
+  
+  <tr>
+  <td><img src="https://github.com/AndresSnow0219/portfolio/blob/portfolio/public/portfolio.jpg" /></td>
+  <td><img src="https://advancedreact.com/images/ARG/arg-facebook-share.png" /></td>
+  <td><img src="https://github.com/AndresSnow0219/solidity-modal/blob/master/.github/assets/header.png" /></td>
+  </tr>
+      
+</table>
 **All files are now being edited with [VSCode](https://code.visualstudio.com/).**
 
 **Still have questions on my Config?** <br>
-**Message me on twitter :** [![Follow CCostan](https://img.shields.io/twitter/follow/CCostan)](https://www.twitter.com/ccostan) or [![Follow Bear Stone Home](https://img.shields.io/twitter/follow/BearStoneHA)](https://www.twitter.com/BearStoneHA)
 
 <p align="center">
-<a target="_blank" href="https://www.buymeacoffee.com/vCloudInfo"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">You can buy me a coffee</span></a><a target="_blank" href="https://www.buymeacoffee.com/vCloudInfo"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"></a>
-<br>
 <a name="bottom" href="https://github.com/CCOSTAN/Home-AssistantConfig#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a><br>
 <a href="https://eepurl.com/dmXFYz"><img align="center" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/email_link.png" height="50" ></a><br>
-<a href="https://www.vCloudInfo.com/p/affiliate-disclosure.html">
-Affiliate Disclosure
-</a></p>
+<a href="mailto:andresfelipe.lopez0219@gmail.com">
+</a>
+</p>
 =======
-# Hello, I'm John Smith! 👋
+# Hello, I'm Andres Lopez! 👋
 
 I'm a software developer passionate about open-source projects and technology. Here you'll find some of my recent work and projects.
 
