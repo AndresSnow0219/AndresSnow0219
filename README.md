@@ -4,7 +4,7 @@
 <table>
   <tr>
   <td width="30%"><img src="https://github.com/AndresSnow0219/portfolio/blob/portfolio/public/portfolio.jpg" alt="portfolio" /></td>
-  <td width="30%"><img src="https://github.com/AndresSnow0219/checkout-single-subscription/blob/master/checkout-demo.gif" /></td>
+  <td width="40%"><img src="https://github.com/AndresSnow0219/checkout-single-subscription/blob/master/checkout-demo.gif" /></td>
   <td><img src="https://raw.githubusercontent.com/blitz-js/art/master/github-cover-photo.png" /></td>
   </tr>
   <tr>
