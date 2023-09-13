@@ -1,4 +1,4 @@
-<h1># Hello, I'm Andres Lopez! 👋 </h1>
+
 
 <h2>I'm a software developer passionate about open-source projects and technology. Here you'll find some of my recent work and projects.</h2>
 <p align="left">
