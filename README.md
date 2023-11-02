@@ -1,5 +1,5 @@
 
-<h2>I'm a full-stack blockchain engineer passionate about open-source projects and technology. Here you'll find some of my recent work and projects.</h2>
+<h2>I'm a full-stack engineer passionate about open-source projects and technology. Here you'll find some of my recent work and projects.</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
